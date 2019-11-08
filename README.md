@@ -1,4 +1,4 @@
-# Wandr
+# Wundr
 CUNY Tech Prep Project
 ## MVP: 
 <li>User is prompted to answer a few questions to help tailor our suggestions to their personal needs: Time, location, and money </li>
