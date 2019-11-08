@@ -7,6 +7,9 @@ CUNY Tech Prep Project
 <li>User can view ALL activities if requested. </li>
 <li>Allow the website to be responsive. </li>
 
+### Mockups Link
+https://khalil.cx/WundrMockup2.pdf?fbclid=IwAR2lL9Rou2P29wB64qRsoT5HgdWGmry4zDkzSVX0h1r9ICCLbYmxbKZdbMk
+
 ## List of Pages
 <li> Home Page </li>
 <li> Filter page (time and money) </li>
