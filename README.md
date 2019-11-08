@@ -18,3 +18,11 @@ https://docs.google.com/document/d/1bU2D-pcVXPXaHFgk2k92_siw4oTfLfp0wrjeody5Zdw/
 <li> Activities List </li>
 <li> Singular activity page </li>
 <li> Activity Definition page </li>
+
+## Login to postgres (or atleast this is how I did it)
+psql -d ctp_database -U ctp_user
+password: ctp_pass
+
+  <li> If you dont have these users setup, its probably the following </li>
+psql -U postgres
+password: 123 (idk what your password would be)
