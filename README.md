@@ -9,7 +9,8 @@ CUNY Tech Prep Project
 
 ### Mockups Link
 https://khalil.cx/WundrMockup2.pdf?fbclid=IwAR2lL9Rou2P29wB64qRsoT5HgdWGmry4zDkzSVX0h1r9ICCLbYmxbKZdbMk
-
+### Design Document
+https://docs.google.com/document/d/1bU2D-pcVXPXaHFgk2k92_siw4oTfLfp0wrjeody5Zdw/edit?usp=sharing
 ## List of Pages
 <li> Home Page </li>
 <li> Filter page (time and money) </li>
