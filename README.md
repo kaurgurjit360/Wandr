@@ -7,6 +7,10 @@ CUNY Tech Prep Project
 <li>User can view ALL activities if requested. </li>
 <li>Allow the website to be responsive. </li>
 
+### Mockups Link
+https://khalil.cx/WundrMockup2.pdf?fbclid=IwAR2lL9Rou2P29wB64qRsoT5HgdWGmry4zDkzSVX0h1r9ICCLbYmxbKZdbMk
+### Design Document
+https://docs.google.com/document/d/1bU2D-pcVXPXaHFgk2k92_siw4oTfLfp0wrjeody5Zdw/edit?usp=sharing
 ## List of Pages
 <li> Home Page </li>
 <li> Filter page (time and money) </li>
@@ -14,3 +18,11 @@ CUNY Tech Prep Project
 <li> Activities List </li>
 <li> Singular activity page </li>
 <li> Activity Definition page </li>
+
+## Login to postgres (or atleast this is how I did it)
+psql -d ctp_database -U ctp_user
+<br>password: ctp_pass
+
+  <li> If you dont have these users setup, its probably the following <br></li>
+psql -U postgres
+<br>password: 123 (idk what your password would be)
